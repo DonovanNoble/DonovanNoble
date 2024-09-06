@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: data god
 -->
 ![5](https://github.com/user-attachments/assets/03afe58c-265d-4f1a-9dff-546530d09460)
+<img src="https://github.com/user-attachments/assets/03afe58c-265d-4f1a-9dff-546530d09460" alt="5" width="400">
