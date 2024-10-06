@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: data god
 -->
 <img src="https://github.com/user-attachments/assets/03afe58c-265d-4f1a-9dff-546530d09460" alt="5" width="400">
-Statment of Accomplishment.pdf
+Statment of Accomplishment in Tableau Fundamentals
 <img src="https://github.com/user-attachments/files/17270561/Statment.of.Accomplishment.pdf" alt="5" width="400">
